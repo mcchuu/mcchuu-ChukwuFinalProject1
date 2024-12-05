@@ -5,7 +5,7 @@ to dynamically generate a weekly meal plan that can be viewed in a new tab, prin
 
 instuctions
 
-- download finalProject1.zip.
+- download ChukwuFinalProject01.zip.
 - select destination and extract files.
 - open finalProject.html in a browser.
 - enter a message into the input field.
