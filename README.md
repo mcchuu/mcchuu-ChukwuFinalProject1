@@ -8,6 +8,5 @@ instuctions
 - download ChukwuFinalProject01.zip.
 - select destination and extract files.
 - open finalProject.html in a browser.
-- enter a message into the input field.
-- enter name, email, weekly goal, and meal preferences.
+- enter personal information and meal plan into the input field.
 - click the Create Meal Plan button to generate
